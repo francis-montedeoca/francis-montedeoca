@@ -22,6 +22,12 @@ y regresión lineal.
 Análisis exploratorio de los factores que determinaron la 
 supervivencia de los pasajeros del Titanic.
 
+### [Análisis de Churn — Telecomunicaciones](https://github.com/francis-montedeoca/analisis-churn-telecomunicaciones)
+Identificación de factores que determinan el abandono de clientes 
+en una empresa de telecomunicaciones con 7,043 registros. 
+Incluye análisis estadístico, pruebas de hipótesis y 
+recomendaciones estratégicas de retención.
+
 ## Habilidades
 - Limpieza y preparación de datos
 - Análisis exploratorio (EDA)
